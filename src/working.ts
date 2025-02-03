@@ -1,0 +1,1 @@
+document.querySelectorAll('article').forEach((element,index)=>{if(index < 760){element.remove();}});
