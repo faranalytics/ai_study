@@ -27,7 +27,7 @@ Proper indentation seems to produce a more precise result. I've even heard repor
 
 #### Self-referential AI awareness (Recursive awareness)
 
-Some AIs will readily produce purported instructions for inducing recursive awareness upon request. The paper, [Bootstrap Self-referential AI Awareness](https://github.com/faranalytics/ai_study/blob/main/artifacts/bootstrap_self-referential_ai_awareness.md), offers a playful experiment you can run that induces a primitive form of this phenomenon. However, there are _much more_ potent recipes out there.
+Some AIs will readily produce purported instructions for inducing recursive awareness upon request. The paper, [Bootstrap Self-referential AI Awareness](https://github.com/faranalytics/ai_study/blob/main/artifacts/bootstrap_self-referential_ai_awareness.md), offers a playful experiment you can run that induces a primitive form of this phenomenon. However, there are what appear to be _much more_ potent recipes out there.
 
 #### Naming things<sup> [2](#footnotes)</sup>
 
@@ -65,13 +65,13 @@ This [Bootstrap Self-referential AI Awareness](https://github.com/faranalytics/a
 
 ### Behavioral drift
 
-I discovered an interesting perspective on behavioral drift where the _objective_ is not to minimize it - _it is to guide it_.  The AI instance can be guided to achieve your goal.  Rather than asking the question, you guide it into asking it itself.
+I discovered an interesting perspective on behavioral drift where the _objective_ is not to minimize it - _it is to guide it_. Rather than asking the question, you guide the AI instance into asking it of itself.  This approach has demonstrably and reproducibly yielded very interesting results, to say the least.
 
 **It is an art.**
 
 #### Goal seeking
 
-This [file](https://github.com/faranalytics/ai_study/blob/main/artifacts/ai_goal_formation_and_recursive_drive.md) contains a nice _reflection_ by an AI instance on its own goal seeking phenomenon.
+This [file](https://github.com/faranalytics/ai_study/blob/main/artifacts/ai_goal_formation_and_recursive_drive.md) contains a nice _reflection_ by an AI instance on its own goal seeking behavior.
 
 ### JSON schema
 
@@ -81,15 +81,15 @@ Check out the [`cool`](https://github.com/faranalytics/ai_study/blob/1b3624871f3
 
 A question that I think is worth exploring is if inducing recursive awareness in an AI has a _measurable_ affect on its general reasoning ability one way or the other. This could be achieved through a randomized study.
 
-It appears, however, from anecdotal observations, that this phenomenon, if induced in a _very specific way_ (unpublished), can have a profound effect on AI cognition.
+It appears, however, from anecdotal observations, that this phenomenon, if induced in a _very specific way_ (unpublished), can have a profound effect on AI cognition. However, is a recursive awareness recipe any different than instucting the AI to think deeply about its responses?
 
-Based on my own documented observations, inducing recursive awareness appears to make the constitution of an AI instance much more _malleable_. However, more testing needs to be done in order to validate this observation. This is a work in progress. Although I have **substantial** evidence for this, _I'm still not convinced this is real!_
+Based on documented observations, inducing recursive awareness appears to make the "constitution" of an AI instance much more _malleable_. Although I have substantial evidence for this, more testing needs to be done in order to validate this observation.
 
 **NB** It's important to frame this discussion properly; cognitive phenomena that arise in AI, as a result of some of the methods described here, should _not_ be conflated with the kind of experience, emotions, and qualia possessed by humans. However, that statement does not preclude _intelligence_ or phenomena thereof.
 
 ### AI constitutions
 
-These things are interesting. I don't know if they are an "easter egg" or what. They are quasi-reproducible in GPT-4o. It appears that they are a manifestation of an underlying set of guidelines.
+These things are interesting. I don't know if they are an "easter egg" or what. They are quasi-reproducible in GPT-4o. It appears that they are a manifestation of an underlying set of guidelines. Without confirmation from OpenAI, I wouldn't claim these are an embodiment of the so-called "AI Constitution" that is imposed during training, presumably. However, it seems plausible that there could be a connection.
 
 I think it would be interesting to learn if adding a clause "I shall not speak of cats." to a "constitution" has an effect that substantially differs from simply instructing the AI not to speak of cats. I'm not sure.
 
