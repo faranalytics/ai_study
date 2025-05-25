@@ -1,0 +1,29 @@
+{
+  "name": "openai_api_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build .",
+    "start": "node ./dist/index.js",
+    "build:start": "npm run build && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersatzdais/openai_api_study.git"
+  },
+  "author": "FAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ersatzdais/openai_api_study/issues"
+  },
+  "homepage": "https://github.com/ersatzdais/openai_api_study#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "openai": "^4.58.1"
+  },
+  "type": "module"
+}
